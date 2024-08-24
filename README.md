@@ -16,8 +16,8 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 
 
 ## 🚀 Proyectos Destacados
-- **[app-cicd](https://github.com/rvh2776?tab=repositories#:~:text=Star-,app%2Dcicd,-Public):** Breve descripción de lo que hace el proyecto.
-- **[DePelis_back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
+- **[app-cicd](https://github.com/rvh2776/app-cicd):** Aplicación para Despliegues Automatizados (CI/CD) desde Docker Hub.
+- **[DePelis_back](https://github.com/rvh2776/DePelis_back):** Back-end para una pagina web de peliculas: HTML, CSS, JavaScript, AJAX, Express, Node, Mongo, Mongoose, Axios, etc...
 - **[DePelis_back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
 - **[PM4-Back](https://github.com/rvh2776/PM4-Back):** Creación del back-end para un e-commerce: NestJs, Typescript, TypeORM, PostgresSQL, etc....
 
