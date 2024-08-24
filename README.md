@@ -4,7 +4,7 @@
 
 Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, NextJs, CSS, HTML** y tecnologías asociadas...
 
-- 📫 Puedes contactarme en: [rafael.vh@gmail.com o LinkedIn].
+- 📫 Puedes contactarme en: [LinkedIn](https://www.linkedin.com/in/rafael-v-h-25a928165/) o [Email](rafael.vh@gmail.com).
 
 ## 🛠️ Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -16,9 +16,9 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 
 
 ## 🚀 Proyectos Destacados
-- **[Nombre del Proyecto 1](URL del proyecto):** Breve descripción de lo que hace el proyecto.
-- **[Nombre del Proyecto 2](URL del proyecto):** Breve descripción de lo que hace el proyecto.
-- **[Nombre del Proyecto 3](URL del proyecto):** Breve descripción de lo que hace el proyecto.
+- **[DePelis_back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
+- **[PM4-Back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
+- **[app-cicd](URL del proyecto):** Breve descripción de lo que hace el proyecto.
 
 ## 📈 Estadísticas de GitHub
 
