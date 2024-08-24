@@ -1,6 +1,8 @@
 ![Banner](https://github.com/rvh2776/rvh2776/blob/main/Banner.png)
 
-## Hi there 👋
+# ¡Hola, soy Rafael! 👋
+
+Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, NextJs, CSS, HTML** y tecnologías asociadas...
 
 <!--
 **rvh2776/rvh2776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
