@@ -5,7 +5,8 @@
 ## 👨‍💻 Sobre Mí
 Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, NextJs, CSS, HTML** y tecnologías asociadas...
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) ![Keep Going](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) ![Creative Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif) ![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) 
+
 
 ### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
 
