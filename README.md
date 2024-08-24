@@ -19,7 +19,7 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 - **[app-cicd](https://github.com/rvh2776?tab=repositories#:~:text=Star-,app%2Dcicd,-Public):** Breve descripción de lo que hace el proyecto.
 - **[DePelis_back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
 - **[DePelis_back](URL del proyecto):** Breve descripción de lo que hace el proyecto.
-- **[PM4-Back](https://github.com/rvh2776/PM4-Back):** Breve descripción de lo que hace el proyecto.
+- **[PM4-Back](https://github.com/rvh2776/PM4-Back):** Creación del back-end para un e-commerce: NestJs, Typescript, TypeORM, PostgresSQL, etc....
 
 
 ## 📈 Estadísticas de GitHub
