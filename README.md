@@ -9,8 +9,6 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400"/>
 </div>
 
-### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
-
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
@@ -35,6 +33,8 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 - **[PM4-Back](https://github.com/rvh2776/PM4-Back):** Creación del back-end para un e-commerce: NestJs, Typescript, TypeORM, PostgresSQL, etc....
 
 <br>
+
+### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
 
 ## 📈 Estadísticas de GitHub
 
