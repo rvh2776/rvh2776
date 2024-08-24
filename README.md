@@ -1,4 +1,4 @@
-![Banner]([https://github.com/rvh2776/rvh2776/edit/main/Banner.png](https://github.com/rvh2776/rvh2776/blob/main/Banner.png))
+![Banner](https://github.com/rvh2776/rvh2776/blob/main/Banner.png)
 
 ## Hi there 👋
 
