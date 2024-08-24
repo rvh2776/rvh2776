@@ -23,3 +23,17 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=radical)
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=dark)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=tokyonight)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=merko)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=gruvbox)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvh2776-dev&layout=compact&theme=radical)
+
+
+
+
