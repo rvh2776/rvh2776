@@ -11,6 +11,8 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400"/>
 </div>
 
+### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
+
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
@@ -28,7 +30,7 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 <br>
 
 ## 🚀 Proyectos Destacados
-- **[WebAdminISP](https://github.com/WebAdminISP):** WebAdminISP es una aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
+- **[WebAdminISP](https://github.com/WebAdminISP):** Aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
 - **[app-cicd](https://github.com/rvh2776/app-cicd):** Aplicación para Despliegues Automatizados (CI/CD) desde Docker Hub.
 - **[DePelis_back](https://github.com/rvh2776/DePelis_back):** Back-end para una pagina web de peliculas: HTML, CSS, JavaScript, AJAX, Express, Node, Axios, etc...
 - **[DePelis_front](https://github.com/rvh2776/dePelis_front):** Front-end para una pagina web de peliculas: Mongo, Mongoose, Axios, Nodemon, Cors, DotEnv, Morgan, etc...
@@ -41,7 +43,4 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvh2776&layout=compact&theme=dark)
 
 <br>
-
-
-### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
 
