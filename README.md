@@ -13,6 +13,11 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?logo=next.js&logoColor=white&style=flat-square)
 ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?logo=nestjs&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+
 
 
 ## 🚀 Proyectos Destacados
