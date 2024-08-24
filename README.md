@@ -4,7 +4,7 @@
 
 Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, NextJs, CSS, HTML** y tecnologías asociadas...
 
-## 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/)[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
+## 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/)[![Gmail] - (https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
 
 <br>
 
@@ -20,7 +20,7 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-
+<br>
 
 ## 🚀 Proyectos Destacados
 - **[WebAdminISP](https://github.com/WebAdminISP):** WebAdminISP es una aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
@@ -29,11 +29,12 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 - **[DePelis_front](https://github.com/rvh2776/dePelis_front):** Front-end para una pagina web de peliculas: Mongo, Mongoose, Axios, Nodemon, Cors, DotEnv, Morgan, etc...
 - **[PM4-Back](https://github.com/rvh2776/PM4-Back):** Creación del back-end para un e-commerce: NestJs, Typescript, TypeORM, PostgresSQL, etc....
 
+<br>
 
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvh2776&layout=compact&theme=dark)
 
-
+<br>
 
 
