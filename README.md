@@ -45,9 +45,3 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 <br>
 
 
-## 🏆 Logros
-- Certificado en **Fullstack Web Development** por SoyHenry.
-
-## 📝 Artículos y Publicaciones
-- **[Cómo integrar Mercado Pago con NestJS](https://example.com)** - Un artículo detallado sobre la integración de pagos en una aplicación NextJS.
-
