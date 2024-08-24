@@ -38,6 +38,10 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 
 <br>
 
+## 🏆 Logros
+- Certificado en **Fullstack Web Development** por SoyHenry.
+
+
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rvh2776&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvh2776&layout=compact&theme=dark)
