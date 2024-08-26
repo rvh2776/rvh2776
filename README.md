@@ -31,7 +31,7 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 
 ## 🚀 Proyectos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rvh2776&repo=WebAdminISP&theme=dark)](https://github.com/tu-usuario/WebAdminISP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rvh2776&repo=WebAdminISP&theme=dark)](https://github.com/rvh2776/WebAdminISP)
 **WebAdminISP**: Aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
 
 - **[WebAdminISP](https://github.com/WebAdminISP):** Aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
