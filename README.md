@@ -30,6 +30,10 @@ Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, N
 <br>
 
 ## 🚀 Proyectos Destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=WebAdminISP&theme=dark)](https://github.com/tu-usuario/WebAdminISP)
+**WebAdminISP**: Aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
+
 - **[WebAdminISP](https://github.com/WebAdminISP):** Aplicación destinada a la administración de servicios de Internet, ofreciendo funcionalidades como gestión de usuarios...
 - **[app-cicd](https://github.com/rvh2776/app-cicd):** Aplicación para Despliegues Automatizados (CI/CD) desde Docker Hub.
 - **[DePelis_back](https://github.com/rvh2776/DePelis_back):** Back-end para una pagina web de peliculas: HTML, CSS, JavaScript, AJAX, Express, Node, Axios, etc...
