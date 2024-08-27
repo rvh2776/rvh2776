@@ -2,8 +2,12 @@
 
 # ¡Hola, soy Rafael! 👋
 
-## 👨‍💻 Sobre Mí
-Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, NextJs, CSS, HTML** y tecnologías asociadas...
+## 👨‍💻 Algo Sobre Mí
+Soy un desarrollador fullstack con experiencia en **JavaScript, NodeJs, React, NestJs, CSS, HTML** y tecnologías asociadas...
+
+Mi background en electrónica y telecomunicaciones, que me ha ayudado a desarrollar habilidades analíticas y técnicas sólidas para resolver problemas complejos y trabajar en equipo en entornos técnicos exigentes. 
+Especializado en Back-end con conocimientos significativos en Front-end, lo que me permite tener una comprensión integral de todo el ciclo de desarrollo. Conocimientos en metodologías ágiles, GIT y frameworks CSS como Bootstrap. 
+Destaco por mi capacidad de adaptación, enfoque en la resolución de problemas, atención al detalle.
 
 <br>
 
