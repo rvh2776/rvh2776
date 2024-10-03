@@ -15,7 +15,7 @@ Destaco por mi capacidad de adaptación, enfoque en la resolución de problemas,
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400"/>
 </div>
 
-### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-v-h-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
+### 📫 Puedes contactarme en: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-velazquez-25a928165/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:rafael.vh@gmail.com)
 
 <br>
 
